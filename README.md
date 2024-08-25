@@ -1,4 +1,4 @@
-# Hi there, I'm Amin Alaghband (cryptoer-satoshi) 👋
+# Hi there, I'm Amin Alaghband 👋
 
 ## About Me
 I'm a tech entrepreneur with a passion for **Cryptocurrency** and **Artificial Intelligence**. I love exploring new technologies and finding innovative solutions to real-world problems. Currently, I'm focused on helping small businesses leverage AI to improve their operations and reduce costs.
